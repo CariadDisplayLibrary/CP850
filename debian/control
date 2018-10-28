@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP850.h
-Description: CP850 (VGA Code Page 850) font for DisplayCore
+Description: CP850 (VGA Code Page 850)
